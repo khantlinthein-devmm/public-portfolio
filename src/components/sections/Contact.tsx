@@ -62,6 +62,7 @@ const Contact: React.FC = () => {
       setStatusMessage("Message send successfully! 🎉");
       setFormData({ name: "", email: "", subject: "", message: "" }); // reset form
     } catch (error) {
+      console.log(error);
       // On error
       setStatusMessage("Failed to send message.Please try again. ❌ ");
       
