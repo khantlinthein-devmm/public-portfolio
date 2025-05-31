@@ -38,7 +38,7 @@ const Hero = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.5 }}
         >
-          With experience in account management, digital marketing, and quality assurance, I bring a versatile skill set to any role. My background in human rights and peacebuilding has strengthened my ability to work with diverse teams and solve challenges effectively. This portfolio highlights my professional journey, skills, and achievements across multiple fields.
+          Versatile and goal-driven professional with a diverse background in community development, digital marketing, and software engineering. Experienced in engaging with communities through impactful development programs at World Vision and driving digital growth strategies as a digital marketer. Currently thriving as a software engineer, combining strong analytical skills and creative problem-solving to build scalable, user-focused solutions. Adept at bridging technical and non-technical domains to deliver meaningful results across sectors.
         </motion.p>
         <motion.div className="flex flex-col justify-center gap-4 sm:flex-row" initial={{opacity : 0}} animate={{ opacity : 1}} transition={{ delay : 0.4, duration : 0.5}}>
          <Button size="lg" onClick={() => scrollToSection('experience')}>

@@ -27,7 +27,7 @@ const About = () => {
 
                   <div className="w-full md:w-1/2">
                      <p className="mb-6 text-lg">
-                     &quot;I am Min Khant Lin Thein, a results-driven professional with experience in account management, digital marketing, and quality assurance. I have 3 years of experience as a Community Developer at World Vision, where I worked on human rights and peacebuilding initiatives. This role strengthened my leadership, problem-solving, and communication skills. Passionate about delivering high-quality work, I adapt quickly to diverse industries and thrive in fast-paced environments.&quot;
+                     &quot;I am Min Khant Lin Thein, a results-oriented professional with a diverse background in software engineering, account management, digital marketing, and community development. With 3 years of experience at World Vision, I led human rights and peacebuilding initiatives, honing my leadership, problem-solving, and cross-cultural communication skills. Now working as a software engineer, I bring a unique blend of technical expertise and a deep understanding of social impact. I thrive in dynamic, fast-paced environments and am committed to delivering high-quality, meaningful solutions across sectors.&quot;
                      </p>
                      
 
