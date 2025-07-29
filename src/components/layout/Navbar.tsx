@@ -72,7 +72,7 @@ const Navbar = () => {
           ))}
         </nav>
 
-        <Link href="/resume.pdf" download target="_blank">
+        <Link href="/MKLT_IT_RESUME.pdf" download target="_blank">
           <Button variant="outline" className="hidden md:inline-flex mx-[30px]">
             Resume
           </Button>
@@ -146,7 +146,7 @@ const Navbar = () => {
                   </button>
                 ))}
 
-                <Link href="/resume.pdf" download target="_blank">
+                <Link href="/MKLT_IT_RESUME.pdf" download target="_blank">
                   <Button variant="outline" className="w-full mt-2">
                     Resume
                   </Button>
